@@ -1,4 +1,4 @@
-# Licenza Community - Approval**** – NC/CA 1.0 (IT) - *Robo Community standard*
+# Licenza Community - Approval – NC/CA 1.0 (IT) - *Robo Community standard*
 
 Copyright (c) [Anno] [Titolare / titolari]
 
